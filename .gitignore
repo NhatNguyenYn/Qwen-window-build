@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.dist-info/
+venv/
+.venv/
+env/
+
+# Windows
+*.lnk
+Thumbs.db
+ehthumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# App data
+data/
+
+# Runtime logs
+logs/
+*.log
+
+# Build
+build/
+dist/
+*.spec
+
+# Secrets files
+.env
+.env.local
+.dev.vars
+secrets.json
+secrets.toml
